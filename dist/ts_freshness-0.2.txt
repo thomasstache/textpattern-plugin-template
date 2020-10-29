@@ -1,0 +1,24 @@
+# ts_freshness v0.2
+# Indication of fresh content.
+# Thomas Stache
+# http://thomasstache.de/
+
+# ......................................................................
+# This is a plugin for Textpattern - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# ......................................................................
+
+H4sIAAAAAAAACpVU22rcMBB9tr9iYgyyS+LddS7OarMp7UNLIdDS7EMhCYtij22Bb0jadpeQ
+f+9I3s3lpVA/mNHRmZkzR5YFn/Mnzc940IkWg4Xms5QHRq9LhbruUGuLZTz4jUrLvrOrUx5M
+k9RGFzwQG1P3yiUSvqr7Vmi4NSKvx2rTA2W9UdIiKdFqYwY+mRjH1o6cFDhxCTMeFKhzJQez
+75de8uBbV8hcWAT6Epw4yPvOYGcSy6EBamwGJ49U1bMEVrg1ssGTsletMAYLsAyoetQUKdyn
+5X3hwiwjqb4sIcobErXGrdRGR+ze1hlsAdXdr0R1/xMr2lE7Fsfw5AM9q+3AeYXmn2THtM/J
+tXIgqoi9NZrFC//Z98tNl7s53+5FIdXUsf/ke1XTP4oGQlNLLZSReYML3/cmEyAF0PSvLslW
+VDRrqfoWVr9+HINGBCOqtduIYt8LZVutC6lgCeHXm++fP93c3rE9xh4We8JQbokQqXoDyyWw
+CYvhIzAG3MaLd1Wio8PCcg7ZCRul2JQX7EC04sk0JXITNZ9oykgoJXaR73msEDtKWl5DdmyX
+lCELt2bMAUaaBkfgi5I6r49G3J3giL/aSzvxMYxGxrarPesjbAezi0JXOiZLyGEvLGRZ2mmM
+bMknOHnn9h0bejq9gj24Kl7ouhGdgYuWAUtGLGEBGylOhR5EZ522U8EHSM/odXoxnZKFTsvY
+9gpe2aTH8xSajeqAXZFG0Cq39eksXgxM6BSScYCEJZUs3/QH0ZhlEIAzyglzEQmDybU9O/rg
+Xhow+/3Zq3A5Xqa1En/+90LR5W6LcxfRf2SO+ewxyy7meEoRXqKYlyLNzsW0mM+z9CxYPP8F
+e0FNloEEAAA=
